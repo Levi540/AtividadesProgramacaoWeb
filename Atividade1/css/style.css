@@ -1,0 +1,69 @@
+.alerts {
+    width: 30%;
+    font-size: small;
+    float: left;
+}
+
+section {
+    width: 90%;
+    margin-left: 4%;
+    margin-right: 4%;
+    float: left;
+}
+
+.alerts div {
+    background-color: black;
+}
+
+.container {
+    background-color: black;
+    width: 95%;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.alerts img {
+    width: 100px;
+    float: left;
+}
+
+.alerts h3 {
+    text-align: center;
+}
+
+.search {
+    float: left;
+    width: 65%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: black;
+    opacity: 1;
+}
+
+.search input {
+    margin-left: 15%;
+    margin-top: 2vh;
+    width: 40%;
+    padding: 0;
+}
+
+.search .btn {
+    margin-bottom: 1vh;
+}
+
+.resultado {
+    width: 100%;
+    opacity: 1;
+}
+
+.resultado img {
+    width: 50%;
+    float: left;
+}
+
+body {
+    background-color: black;
+    color: white;
+    background-image: url('img/warframe.jpg');
+    background-size: cover;
+}
